@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VisitingCard</string>
+    <string name="card_holder_name">card holder name</string>
+    <string name="e_mail">e-mail</string>
+    <string name="mobile">mobile</string>
+    <string name="generate_card">Generate Card</string>
+    <string name="md_jubayer_al_asad">MD. Jubayer Al Asad</string>
+</resources>
